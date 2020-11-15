@@ -1,0 +1,8 @@
+name: NMSLib
+version: ${project.version}
+main: fr.k0bus.nmslib.NMSLib
+api-version: 1.16
+prefix: NMSLib
+authors: [ K0bus ]
+description: NMSLib
+website: https://k0bus.fr
